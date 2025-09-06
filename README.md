@@ -40,3 +40,37 @@ ___Underscores using ___
 ---
 Thank you
 JJ
+
+- This is the first line
+- This is self listed Line#2
+
+* This is Line 1
+* Line#2
+
+  1. First point
+  2. 2nd point
+  3. 3rd point
+    - i. Hello
+      1. fff
+     
+## Links
+(https://www.linkedin.com)
+
+[Website] (https://www.linkedin.com "LinkedIn")
+
+[LinkedIn]
+
+[Learning] [1]
+
+[linkedin]: https://www.linkedin.com
+[1]: https://www.linkedin.com/learning
+
+
+
+    
+ 
+  
+
+
+
+
