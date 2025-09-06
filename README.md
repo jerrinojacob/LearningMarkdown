@@ -30,7 +30,7 @@ using "***"
 
 ___Underscores using ___
 
-# Questions:
+# Sample Questions:
 ## Answer against each questions
 > 1. What possibly is a **Toolchain** and how does it fit into our workflow?
 > 2. What is *github* and why is it important to our course?  ~github is bad tool~ 
