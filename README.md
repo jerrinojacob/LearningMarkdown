@@ -68,9 +68,39 @@ JJ
 [ff]: www.google.com
 
     
- 
-  
+ ==
+ ## Images[^2]
+![photo] (https://www.vecteezy.com/vector-art/7736247-cross-religious-funeral-design-with-branches-vector-illustration-in-black-and-white)
+
+[Images]: (https://www.vecteezy.com/vector-art/7736247-cross-religious-funeral-design-with-branches-vector-illustration-in-black-and-white)
+
+==
+## Code
+there is a need to learn what is the `code`[^1]
+``` py
+let x = y;
+console.log(y);
+```
+
+[^1]: My reference
+[^2]: Their reference
 
 
+
+
+## TABLES
+
+|LEFT|CENTER|RIGHT|
+|----|:----:|----:|
+|one|1|$1.00|
+|two|2|$5.00|
+|three|3|$15.00|
+
+## Task
+
+ - [x] First
+   - [X] One
+   - [ ] Two
+ - [ ] Second
 
 
