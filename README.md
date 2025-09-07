@@ -1,9 +1,35 @@
-# Headline1 with #
+🫀 😘
+---
+`00FC99`
+
+
+
+---
+<details>
+  <summary>collapsed</summary>
+
+  # Header
+
+  This is the copy of the collapsed text.
+</details>
+
+---
+## TABLES
+
+|LEFT|CENTER|RIGHT|
+|----|:----:|----:|
+|one|1|$1.00|
+|two|2|$5.00|
+|three|3|$15.00|
+
+
+---
+# Headline1 with "#"
 
 Headline with =
 =
 
-## Headline2 with ##
+## Headline2 with "##"
 
 Headline2 with -
 -
@@ -88,13 +114,7 @@ console.log(y);
 
 
 
-## TABLES
 
-|LEFT|CENTER|RIGHT|
-|----|:----:|----:|
-|one|1|$1.00|
-|two|2|$5.00|
-|three|3|$15.00|
 
 ## Task
 
